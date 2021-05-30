@@ -7,6 +7,8 @@ But you can expand into a large level
 
 GitHub Repository
 
+#Use yarn or npm both will work
+
 iqtiza1712/InfiniteScroll
 
 Dependencies required
